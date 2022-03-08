@@ -1,7 +1,7 @@
 import "./style.css";
 import * as THREE from "three";
 import * as dat from "lil-gui";
-import bg from "./images/bg.jpg";
+import bg from "./images/sf3.jpg";
 
 /**
  * デバッグ(色つけるときに追加)
